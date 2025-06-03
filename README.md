@@ -1,3 +1,5 @@
+## Deployed version (Render): https://churnometer-blj9.onrender.com/
+
 ## How to use this repo
 
 1. Fork this repo. 
@@ -17,7 +19,6 @@
 Your workspace is now ready to use. When you want to return to this project, you can find it in your Cloud IDE Dashboard. You should only create 1 workspace per project.
 
 ## Dataset Content
-
 The dataset is sourced from [Kaggle](https://www.kaggle.com/codeinstitute/telecom-churn-dataset). We created then a fictitious user story where predictive analytics can be applied in a real project in the workplace.
 Each row represents a customer, each column contains a customer attribute. The data set includes information about:
 - Services that each customer has signed up for, like phone, multiple lines, internet, online security, online backup, device protection, tech support, streaming TV and movies
